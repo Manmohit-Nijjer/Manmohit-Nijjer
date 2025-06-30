@@ -1,5 +1,5 @@
 - Hi, I’m @Manmohit-Nijjer
-I’m interested in Malware Analaysis, software ,and creation of apps 
+I’m currently interested in the application of Malware Detection and the inconsistencies of AI
 I'm currently a student at Hofstra University studying Computer Science and Cybersecurity 
 I’m looking to collaborate on projects, research and anything that inspires growth 
 You can reach me at Nijjer2004@gmail.com for any questions offers or concerns 
